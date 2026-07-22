@@ -1,0 +1,14 @@
+{
+  "name": "openui-merge-ternary-repro",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "description": "Minimal reproduction: mergeStatements() destroys multi-line ternary statements that parse() accepts",
+  "scripts": {
+    "repro": "node repro.mjs"
+  },
+  "dependencies": {
+    "@openuidev/lang-core": "0.2.9",
+    "zod": "^4.0.0"
+  }
+}
