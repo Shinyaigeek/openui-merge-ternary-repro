@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "@openuidev/lang-core": "0.2.9",
-    "zod": "^4.0.0"
+    "zod": "^4.6.7"
   }
 }
